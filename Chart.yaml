@@ -1,0 +1,4 @@
+apiVersion: v1
+description: testing helm
+name: samidweb
+version: 1.0.0
